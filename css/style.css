@@ -10,6 +10,10 @@ h2 {
 	color: black;
 }
 
+p{
+	font-size: 50;
+}
+
 a {
 	color: #35C0F2;
 	text-decoration: none;
