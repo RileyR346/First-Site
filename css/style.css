@@ -1,5 +1,5 @@
 h1 {
-	font-size: 50px
+	font-size: 80px
 	font-style: serif;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 #container{ 
-	background: black;
+	background: pink;
 	width: 440px;
 	color: white;
 	padding: 15px;
