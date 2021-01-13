@@ -5,12 +5,12 @@ h1 {
 
 h2 {
 	background: #35C0F2;
-	border-radius: 10px;
+	border-radius: 5px;
 	padding: 5px;
 	color: black;
 }
 
-p{
+p {
 	font-size: 50;
 }
 
@@ -19,7 +19,7 @@ a {
 	text-decoration: none;
 }
 
-#container 
+#container{ 
 	background: black;
 	width: 440px;
 	color: white;
